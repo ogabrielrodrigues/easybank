@@ -21,7 +21,5 @@ function setActualMenu(e) {
         item.classList.remove('border-b-2', 'border-lime')
      })
 
-    
-    
-    // .classList.add('border-b-2', 'border-lime')
+    e.target.classList.add('border-b-2', 'border-lime')
 }
